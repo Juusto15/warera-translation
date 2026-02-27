@@ -1497,7 +1497,7 @@ msgstr "Satın Alma"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
-msgstr "Pazarda <0>{count}</0> ye satın al"
+msgstr "Pazarda <0>{count}</0> tutarında paraya satın al"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:164
 msgid "Buy Items"
@@ -2730,7 +2730,7 @@ msgstr "Başka iş bul"
 
 #: src/components/_user/user/UserDropdown.tsx:305
 msgid "Fine (remove money)"
-msgstr " cezası ver"
+msgstr "Para cezası ver (parayı hesaptan sil)"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:202
 msgid "Fire"
