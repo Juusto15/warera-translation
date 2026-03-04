@@ -3706,7 +3706,7 @@ msgstr "Maksimālais biedru skaits <0>{0}</0>."
 #. placeholder {1}: typeof levelConfig.stats.dailyHires !== 'undefined' && ( <> <br /> Daily hiring limit of{' '} <EntityValue IconComponent={WorkerIcon}> {levelConfig.stats.dailyHires} </EntityValue>{' '} per day. </> )
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:117
 msgid "Maximum of <0>{0}</0> workers.{1}"
-msgstr "Maksimālais darbinieku skaits <0>{0}</0>.{1}"
+msgstr "Maksimālais strādnieku skaits <0>{0}</0>.{1}"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:32
 msgid "Maybe epic music would help?"
