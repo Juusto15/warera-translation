@@ -169,7 +169,7 @@ msgstr "<0/> је освојио регион на <1/>"
 msgid "<0/> created the conversation"
 msgstr "<0/> је креирао ћаскање"
 
-#: src/components/_political/event/event.frontConfig.tsx:175
+#: src/components/_political/event/event.frontConfig.tsx:182
 msgid "<0/> declared war on <1/>"
 msgstr "<0/> Објављује рат <1/>"
 
@@ -191,7 +191,7 @@ msgstr "<0/> Финансира отпор за <1/> у <2/>"
 msgid "<0/> financed a revolt in <1/>"
 msgstr "<0/> финансирао револт у <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:446
+#: src/components/_political/event/event.frontConfig.tsx:453
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> финансирала револт у <1/> за <2/> против <3/>"
 
@@ -231,11 +231,11 @@ msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> је изабран за председника <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_political/event/event.frontConfig.tsx:211
+#: src/components/_political/event/event.frontConfig.tsx:218
 msgid "<0/> has bought <1/> from <2/> for <3>{0}</3>"
 msgstr "<0/> је купила <1/> од <2/> за <3>{0}</3>"
 
-#: src/components/_political/event/event.frontConfig.tsx:327
+#: src/components/_political/event/event.frontConfig.tsx:334
 msgid "<0/> has broken their alliance with <1/>"
 msgstr "<0/> прекида савез са <1/>"
 
@@ -247,19 +247,19 @@ msgstr "<0/> осваја <1/> од <2/>"
 msgid "<0/> has defended <1/> against <2/>"
 msgstr "<0/> брани <1/> од <2/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:453
+#: src/components/_political/event/event.frontConfig.tsx:460
 msgid "<0/> has financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> финансира револт у <1/> за <2/> против <3/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:370
+#: src/components/_political/event/event.frontConfig.tsx:377
 msgid "<0/> has financed resistance in <1/>"
 msgstr "<0/> финансира отпор у <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:312
+#: src/components/_political/event/event.frontConfig.tsx:319
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> склапа савез са <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:227
+#: src/components/_political/event/event.frontConfig.tsx:234
 msgid "<0/> has liberated <1/> and returned it to <2/>"
 msgstr "<0/> ослобађа <1/> и враћа <2/>"
 
@@ -271,19 +271,18 @@ msgstr "<0/> започиње револуцију у <1/>"
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> Почиње! Нека битке почну!"
 
-#: src/components/_political/event/event.frontConfig.tsx:384
+#: src/components/_political/event/event.frontConfig.tsx:391
 msgid "<0/> has suppressed resistance in <1/>"
 msgstr "<0/> сузбија отпор у <1/>"
 
 #. placeholder {0}: data.money
-#: src/components/_political/event/event.frontConfig.tsx:254
+#: src/components/_political/event/event.frontConfig.tsx:261
 msgid "<0/> has transferred <1>{0}</1> to <2/>"
 msgstr "<0/> шаље <1>{0}</1> <2/>"
 
-#. placeholder {0}: !data.attackerRegion ? 'revolting' : 'attacking'
-#: src/components/_political/event/event.frontConfig.tsx:155
-msgid "<0/> is {0} <1/>"
-msgstr "<0/> је {0} <1/>"
+#: src/components/_political/event/event.frontConfig.tsx:164
+msgid "<0/> is attacking <1/>"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
@@ -293,9 +292,13 @@ msgstr "<0/> напада <1/> у <2/>"
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> напада твоју земљу у <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:299
+#: src/components/_political/event/event.frontConfig.tsx:306
 msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
 msgstr "<0/> је у банкроту. Сви савези и надоградње региона се гасе."
+
+#: src/components/_political/event/event.frontConfig.tsx:155
+msgid "<0/> is revolting <1/>"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
@@ -335,7 +338,7 @@ msgstr "<0/> је лајковао твој чланак <1/>"
 msgid "<0/> liked your message <1/>"
 msgstr "<0/> је лајковао твоју поруку <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:242
+#: src/components/_political/event/event.frontConfig.tsx:249
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> склапа мир са <1/>"
 
@@ -368,7 +371,7 @@ msgstr "<0/> се претплатио на твој чланак <1/>"
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> је дао напојницу за твој чланак <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:197
+#: src/components/_political/event/event.frontConfig.tsx:204
 msgid "<0/> took control of <1/>"
 msgstr "<0/> преузима контролу у <1/>"
 
@@ -380,7 +383,7 @@ msgstr "Рат између <0/> и <1/>"
 msgid "<0/> wants to make peace with your country"
 msgstr "<0/> жели да склопи мир са твојом државом"
 
-#: src/components/_political/event/event.frontConfig.tsx:192
+#: src/components/_political/event/event.frontConfig.tsx:199
 msgid "<0/> was elected president of <1/>"
 msgstr "<0/> бива изабран за председника <1/>"
 
@@ -988,7 +991,7 @@ msgstr "Значка <0>подршке</0>"
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Лепо обојено корисничко име које ће те учинити врло популарним"
 
-#: src/components/_political/event/event.frontConfig.tsx:399
+#: src/components/_political/event/event.frontConfig.tsx:406
 msgid "A civil war has started by <0/> in <1/>"
 msgstr "<0/> Започиње цивилни рат у <1/>"
 
@@ -999,7 +1002,7 @@ msgstr "У овом региону је откривено налазиште, �
 #. placeholder {0}: ts[data.itemCode]
 #. placeholder {1}: data.bonusPercent
 #. placeholder {2}: data.durationDays
-#: src/components/_political/event/event.frontConfig.tsx:267
+#: src/components/_political/event/event.frontConfig.tsx:274
 msgid "A deposit of <0>{0}</0> <1>{1}</1> has been found in <2/> for {2} days"
 msgstr "Налазиште <0>{0}</0> <1>{1}</1> је пронађено у <2/> и траје {2} дана"
 
@@ -1066,7 +1069,7 @@ msgstr "Погледај рат"
 #: src/pages/country/[countryId]/account.tsx:36
 #: src/pages/country/[countryId]/index.tsx:328
 #: src/pages/user/[userId]/account.tsx:25
-#: src/pages/user/[userId]/index.tsx:149
+#: src/pages/user/[userId]/index.tsx:142
 msgid "Account"
 msgstr "Налог"
 
@@ -1263,11 +1266,11 @@ msgstr "Број <0>Радника</0> којим можеш управљати.
 msgid "Amount of companies you can own"
 msgstr "Број компанија који можеш поседовати"
 
-#: src/components/_political/event/event.frontConfig.tsx:332
+#: src/components/_political/event/event.frontConfig.tsx:339
 msgid "An alliance has been broken"
 msgstr "Савез је раскинут"
 
-#: src/components/_political/event/event.frontConfig.tsx:317
+#: src/components/_political/event/event.frontConfig.tsx:324
 msgid "An alliance has been formed"
 msgstr "Савез је склопљен"
 
@@ -1367,7 +1370,7 @@ msgid "Article tipped"
 msgstr "Напојница дата"
 
 #: src/components/_user/user/UserHeader.tsx:204
-#: src/pages/user/[userId]/index.tsx:199
+#: src/pages/user/[userId]/index.tsx:200
 msgid "Articles"
 msgstr "Чланци"
 
@@ -2229,7 +2232,7 @@ msgstr "Критични удар"
 msgid "Crossbow"
 msgstr "Самострел"
 
-#: src/pages/user/[userId]/index.tsx:162
+#: src/pages/user/[userId]/index.tsx:155
 msgid "Current Military Unit"
 msgstr "Тренутна војна јединица"
 
@@ -2424,7 +2427,7 @@ msgid "Deposit discovered"
 msgstr "Налазиште откривено"
 
 #. placeholder {0}: ts[data.itemCode]
-#: src/components/_political/event/event.frontConfig.tsx:285
+#: src/components/_political/event/event.frontConfig.tsx:292
 msgid "Deposit of <0>{0}</0> has been depleted in <1/>"
 msgstr "Налазиште <0>{0}</0> је исцрпљено у <1/>"
 
@@ -3310,7 +3313,7 @@ msgstr "Новајлија"
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
 #: src/pages/user/[userId]/companies.tsx:46
-#: src/pages/user/[userId]/index.tsx:192
+#: src/pages/user/[userId]/index.tsx:193
 #: src/pages/user/[userId]/inventory.tsx:30
 msgid "Inventory"
 msgstr "Инвентар"
@@ -4421,7 +4424,7 @@ msgstr "Преглед"
 msgid "Owned"
 msgstr "У власништву"
 
-#: src/pages/user/[userId]/index.tsx:168
+#: src/pages/user/[userId]/index.tsx:161
 msgid "Owned Military Units"
 msgstr "Поседованe Војне Јединице"
 
@@ -4461,7 +4464,7 @@ msgstr "Странке"
 
 #: src/components/_layout/LayoutRightIcons.tsx:303
 #: src/components/_layout/MoreButtonNav.tsx:140
-#: src/pages/user/[userId]/index.tsx:141
+#: src/pages/user/[userId]/index.tsx:168
 msgid "Party"
 msgstr "Странка"
 
@@ -4553,7 +4556,7 @@ msgstr "Мир склопљен"
 msgid "Pending wage reduction"
 msgstr "Смањење плате на чекању"
 
-#: src/components/_political/event/event.frontConfig.tsx:343
+#: src/components/_political/event/event.frontConfig.tsx:350
 msgid "People are angry, an auto revolt has started in <0/>"
 msgstr "Људи су љути, аутоматски револт је почео у <0/>"
 
@@ -4935,7 +4938,7 @@ msgstr "Реферал линк копиран у привремену мемо�
 
 #: src/components/_user/user/UserHeader.tsx:210
 #: src/components/_user/user/UserRankingsPanel.tsx:50
-#: src/pages/user/[userId]/index.tsx:210
+#: src/pages/user/[userId]/index.tsx:211
 #: src/pages/user/[userId]/referrals.tsx:67
 msgid "Referrals"
 msgstr "Реферали"
@@ -5530,7 +5533,7 @@ msgstr "Надоградња вештина:"
 
 #: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:171
-#: src/pages/user/[userId]/index.tsx:156
+#: src/pages/user/[userId]/index.tsx:149
 msgid "Skills"
 msgstr "Вештине"
 
@@ -5717,7 +5720,7 @@ msgstr "Стратешки ресурс"
 msgid "Strategic resources"
 msgstr "Стратешки ресурс"
 
-#: src/components/_political/event/event.frontConfig.tsx:357
+#: src/components/_political/event/event.frontConfig.tsx:364
 msgid "Strategic resources have been reshuffled across the whole map."
 msgstr "Стратешки ресурси су измешани на целој мапи."
 
@@ -5852,11 +5855,11 @@ msgstr "<0>Поени производње</0> које генеришеш св�
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "Основна вредност за прорачун <0>штете</0>."
 
-#: src/components/_political/event/event.frontConfig.tsx:431
+#: src/components/_political/event/event.frontConfig.tsx:438
 msgid "The civil war started by <0/> in <1/> has been suppressed"
 msgstr "Цивилни рат започет од <0/> у <1/> је потиснут"
 
-#: src/components/_political/event/event.frontConfig.tsx:415
+#: src/components/_political/event/event.frontConfig.tsx:422
 msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the government has been overthrown."
 msgstr "Цивилни рат започет од <0/> у <1/> је успео <2/> и влада је пала."
 
@@ -6139,7 +6142,7 @@ msgstr "Трансак."
 
 #: src/components/_political/country/CountryHeader.tsx:76
 #: src/pages/market/index.tsx:83
-#: src/pages/user/[userId]/index.tsx:221
+#: src/pages/user/[userId]/index.tsx:222
 msgid "Transactions"
 msgstr "Трансакције"
 

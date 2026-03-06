@@ -169,7 +169,7 @@ msgstr "<0/> hat die Region in <1/> erobert"
 msgid "<0/> created the conversation"
 msgstr "<0/> hat die Konversation erstellt"
 
-#: src/components/_political/event/event.frontConfig.tsx:175
+#: src/components/_political/event/event.frontConfig.tsx:182
 msgid "<0/> declared war on <1/>"
 msgstr "<0/> hat <1/> den Krieg erklärt"
 
@@ -191,7 +191,7 @@ msgstr "<0/> hat einen Widerstandskrieg für <1/> in <2/> finanziert"
 msgid "<0/> financed a revolt in <1/>"
 msgstr "<0/> hat eine Revolte in <1/> finanziert"
 
-#: src/components/_political/event/event.frontConfig.tsx:446
+#: src/components/_political/event/event.frontConfig.tsx:453
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> hat eine Revolte in <1/> für <2/> gegen <3/> finanziert"
 
@@ -231,11 +231,11 @@ msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> wurde zum Präsidenten von <1/> gewählt"
 
 #. placeholder {0}: data.amount
-#: src/components/_political/event/event.frontConfig.tsx:211
+#: src/components/_political/event/event.frontConfig.tsx:218
 msgid "<0/> has bought <1/> from <2/> for <3>{0}</3>"
 msgstr "<0/> hat <1/> von <2/> für <3>{0}</3> gekauft"
 
-#: src/components/_political/event/event.frontConfig.tsx:327
+#: src/components/_political/event/event.frontConfig.tsx:334
 msgid "<0/> has broken their alliance with <1/>"
 msgstr "<0/> hat das Bündnis mit <1/> gebrochen"
 
@@ -247,19 +247,19 @@ msgstr "<0/> hat <1/> gegen <2/> erobert"
 msgid "<0/> has defended <1/> against <2/>"
 msgstr "<0/> hat <1/> gegen <2/> verteidigt"
 
-#: src/components/_political/event/event.frontConfig.tsx:453
+#: src/components/_political/event/event.frontConfig.tsx:460
 msgid "<0/> has financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> hat eine Revolte in <1/> für <2/> gegen <3/> finanziert"
 
-#: src/components/_political/event/event.frontConfig.tsx:370
+#: src/components/_political/event/event.frontConfig.tsx:377
 msgid "<0/> has financed resistance in <1/>"
 msgstr "<0/> hat den Widerstand in <1/> finanziert"
 
-#: src/components/_political/event/event.frontConfig.tsx:312
+#: src/components/_political/event/event.frontConfig.tsx:319
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> ist ein Bündnis mit <1/> eingegangen"
 
-#: src/components/_political/event/event.frontConfig.tsx:227
+#: src/components/_political/event/event.frontConfig.tsx:234
 msgid "<0/> has liberated <1/> and returned it to <2/>"
 msgstr "<0/> hat <1/> befreit und an <2/> zurückgegeben"
 
@@ -271,19 +271,18 @@ msgstr "<0/> hat eine Revolution in <1/> gestartet"
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> hat begonnen! Lasst die Schlachten beginnen!"
 
-#: src/components/_political/event/event.frontConfig.tsx:384
+#: src/components/_political/event/event.frontConfig.tsx:391
 msgid "<0/> has suppressed resistance in <1/>"
 msgstr "<0/> hat den Widerstand in <1/> unterdrückt"
 
 #. placeholder {0}: data.money
-#: src/components/_political/event/event.frontConfig.tsx:254
+#: src/components/_political/event/event.frontConfig.tsx:261
 msgid "<0/> has transferred <1>{0}</1> to <2/>"
 msgstr "<0/> hat <1>{0}</1> an <2/> überwiesen"
 
-#. placeholder {0}: !data.attackerRegion ? 'revolting' : 'attacking'
-#: src/components/_political/event/event.frontConfig.tsx:155
-msgid "<0/> is {0} <1/>"
-msgstr "<0/> ist {0} <1/>"
+#: src/components/_political/event/event.frontConfig.tsx:164
+msgid "<0/> is attacking <1/>"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
@@ -293,9 +292,13 @@ msgstr "<0/> greift <1/> in <2/> an"
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> greift dein Land in <1/> an"
 
-#: src/components/_political/event/event.frontConfig.tsx:299
+#: src/components/_political/event/event.frontConfig.tsx:306
 msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
 msgstr "<0/> ist bankrott. Alle Bündnisse werden aufgelöst und alle Regions-Upgrades deaktiviert."
+
+#: src/components/_political/event/event.frontConfig.tsx:155
+msgid "<0/> is revolting <1/>"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
@@ -335,7 +338,7 @@ msgstr "<0/> hat deinen Artikel <1/> geliked"
 msgid "<0/> liked your message <1/>"
 msgstr "<0/> liked deine Nachricht <1/>"
 
-#: src/components/_political/event/event.frontConfig.tsx:242
+#: src/components/_political/event/event.frontConfig.tsx:249
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> hat Frieden mit <1/> geschlossen"
 
@@ -368,7 +371,7 @@ msgstr "<0/> abonnierte dich bei deinem Artikel <1/> "
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> gab dir Trinkgeld für deinen Artikel <1/> "
 
-#: src/components/_political/event/event.frontConfig.tsx:197
+#: src/components/_political/event/event.frontConfig.tsx:204
 msgid "<0/> took control of <1/>"
 msgstr "<0/> hat die Kontrolle über <1/> übernommen"
 
@@ -380,7 +383,7 @@ msgstr "<0/> vs <1/> Krieg"
 msgid "<0/> wants to make peace with your country"
 msgstr "<0/> möchte Frieden mit deinem Land schließen"
 
-#: src/components/_political/event/event.frontConfig.tsx:192
+#: src/components/_political/event/event.frontConfig.tsx:199
 msgid "<0/> was elected president of <1/>"
 msgstr "<0/> wurde zum Präsidenten von <1/> gewählt"
 
@@ -988,7 +991,7 @@ msgstr "Ein <0>Unterstützer-Abzeichen</0>"
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Ein schön farbiger Benutzername, der dich sehr beliebt machen wird"
 
-#: src/components/_political/event/event.frontConfig.tsx:399
+#: src/components/_political/event/event.frontConfig.tsx:406
 msgid "A civil war has started by <0/> in <1/>"
 msgstr "Ein Bürgerkrieg wurde von <0/> in <1/> gestartet"
 
@@ -999,7 +1002,7 @@ msgstr "In dieser Region wurde ein Vorkommen gefunden; es kann von Unternehmen g
 #. placeholder {0}: ts[data.itemCode]
 #. placeholder {1}: data.bonusPercent
 #. placeholder {2}: data.durationDays
-#: src/components/_political/event/event.frontConfig.tsx:267
+#: src/components/_political/event/event.frontConfig.tsx:274
 msgid "A deposit of <0>{0}</0> <1>{1}</1> has been found in <2/> for {2} days"
 msgstr "Ein Vorkommen von <0>{0}</0> <1>{1}</1> wurde in <2/> für {2} Tage gefunden"
 
@@ -1066,7 +1069,7 @@ msgstr "Krieg aufrufen"
 #: src/pages/country/[countryId]/account.tsx:36
 #: src/pages/country/[countryId]/index.tsx:328
 #: src/pages/user/[userId]/account.tsx:25
-#: src/pages/user/[userId]/index.tsx:149
+#: src/pages/user/[userId]/index.tsx:142
 msgid "Account"
 msgstr "Konto"
 
@@ -1263,11 +1266,11 @@ msgstr "Anzahl der <0>Arbeiter</0>, die du verwalten kannst. Sowie tägliches Ei
 msgid "Amount of companies you can own"
 msgstr "Anzahl der Unternehmen, die du besitzen kannst"
 
-#: src/components/_political/event/event.frontConfig.tsx:332
+#: src/components/_political/event/event.frontConfig.tsx:339
 msgid "An alliance has been broken"
 msgstr "Ein Bündnis wurde gebrochen"
 
-#: src/components/_political/event/event.frontConfig.tsx:317
+#: src/components/_political/event/event.frontConfig.tsx:324
 msgid "An alliance has been formed"
 msgstr "Ein Bündnis wurde geschlossen"
 
@@ -1367,7 +1370,7 @@ msgid "Article tipped"
 msgstr "Artikel mit Trinkgeld belohnt"
 
 #: src/components/_user/user/UserHeader.tsx:204
-#: src/pages/user/[userId]/index.tsx:199
+#: src/pages/user/[userId]/index.tsx:200
 msgid "Articles"
 msgstr "Artikel"
 
@@ -2229,7 +2232,7 @@ msgstr "Kritischer Treffer"
 msgid "Crossbow"
 msgstr "Armbrust"
 
-#: src/pages/user/[userId]/index.tsx:162
+#: src/pages/user/[userId]/index.tsx:155
 msgid "Current Military Unit"
 msgstr "Aktuelle Militäreinheit"
 
@@ -2424,7 +2427,7 @@ msgid "Deposit discovered"
 msgstr "Vorkommen entdeckt"
 
 #. placeholder {0}: ts[data.itemCode]
-#: src/components/_political/event/event.frontConfig.tsx:285
+#: src/components/_political/event/event.frontConfig.tsx:292
 msgid "Deposit of <0>{0}</0> has been depleted in <1/>"
 msgstr "Das Vorkommen von <0>{0}</0> in <1/> ist erschöpft"
 
@@ -3310,7 +3313,7 @@ msgstr "Initiant"
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
 #: src/pages/user/[userId]/companies.tsx:46
-#: src/pages/user/[userId]/index.tsx:192
+#: src/pages/user/[userId]/index.tsx:193
 #: src/pages/user/[userId]/inventory.tsx:30
 msgid "Inventory"
 msgstr "Inventar"
@@ -4421,7 +4424,7 @@ msgstr "Übersicht"
 msgid "Owned"
 msgstr "Im Besitz"
 
-#: src/pages/user/[userId]/index.tsx:168
+#: src/pages/user/[userId]/index.tsx:161
 msgid "Owned Military Units"
 msgstr "Eigene Militäreinheiten"
 
@@ -4461,7 +4464,7 @@ msgstr "Parteien"
 
 #: src/components/_layout/LayoutRightIcons.tsx:303
 #: src/components/_layout/MoreButtonNav.tsx:140
-#: src/pages/user/[userId]/index.tsx:141
+#: src/pages/user/[userId]/index.tsx:168
 msgid "Party"
 msgstr "Partei"
 
@@ -4553,7 +4556,7 @@ msgstr "Frieden geschlossen"
 msgid "Pending wage reduction"
 msgstr "Ausstehende Lohnkürzung"
 
-#: src/components/_political/event/event.frontConfig.tsx:343
+#: src/components/_political/event/event.frontConfig.tsx:350
 msgid "People are angry, an auto revolt has started in <0/>"
 msgstr "Die Menschen sind wütend, eine automatische Revolte hat in <0/> begonnen"
 
@@ -4935,7 +4938,7 @@ msgstr "Empfehlungslink in die Zwischenablage kopiert"
 
 #: src/components/_user/user/UserHeader.tsx:210
 #: src/components/_user/user/UserRankingsPanel.tsx:50
-#: src/pages/user/[userId]/index.tsx:210
+#: src/pages/user/[userId]/index.tsx:211
 #: src/pages/user/[userId]/referrals.tsx:67
 msgid "Referrals"
 msgstr "Empfehlungen"
@@ -5530,7 +5533,7 @@ msgstr "Skill-Upgrade:"
 
 #: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:171
-#: src/pages/user/[userId]/index.tsx:156
+#: src/pages/user/[userId]/index.tsx:149
 msgid "Skills"
 msgstr "Fähigkeiten"
 
@@ -5717,7 +5720,7 @@ msgstr "Strategische Ressource"
 msgid "Strategic resources"
 msgstr "Strategische Ressourcen"
 
-#: src/components/_political/event/event.frontConfig.tsx:357
+#: src/components/_political/event/event.frontConfig.tsx:364
 msgid "Strategic resources have been reshuffled across the whole map."
 msgstr "Strategische Ressourcen wurden über die gesamte Karte neu verteilt."
 
@@ -5852,11 +5855,11 @@ msgstr "Die <0>Produktionspunkte</0>, die du jedes Mal beim Arbeiten generierst"
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "Der Basiswert für die <0>Schadensberechnung</0>."
 
-#: src/components/_political/event/event.frontConfig.tsx:431
+#: src/components/_political/event/event.frontConfig.tsx:438
 msgid "The civil war started by <0/> in <1/> has been suppressed"
 msgstr "Der von <0/> in <1/> begonnene Bürgerkrieg wurde unterdrückt"
 
-#: src/components/_political/event/event.frontConfig.tsx:415
+#: src/components/_political/event/event.frontConfig.tsx:422
 msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the government has been overthrown."
 msgstr "Der von <0/> in <1/> begonnene Bürgerkrieg war erfolgreich für <2/> und die Regierung wurde gestürzt."
 
@@ -6139,7 +6142,7 @@ msgstr "Transak."
 
 #: src/components/_political/country/CountryHeader.tsx:76
 #: src/pages/market/index.tsx:83
-#: src/pages/user/[userId]/index.tsx:221
+#: src/pages/user/[userId]/index.tsx:222
 msgid "Transactions"
 msgstr "Transaktionen"
 
