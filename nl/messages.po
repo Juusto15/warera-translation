@@ -286,7 +286,7 @@ msgstr "<0/> valt <1/> aan"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
-msgstr "<0/> is <1/> aan het aanvallen in <2/>"
+msgstr "<0/> valt <1/> aan in <2/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1021
 msgid "<0/> is attacking your country in <1/>"
