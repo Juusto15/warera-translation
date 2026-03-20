@@ -1645,7 +1645,7 @@ msgstr "Ordens de compra"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:349
 msgid "By continuing, you agree to our <0>Terms of Service</0>."
-msgstr "Ao continuar, você concorda com os nossos <0>Termos de Serviço</0>.""
+msgstr "Ao continuar, você concorda com os nossos <0>Termos de Serviço</0>.\""
 
 #. placeholder {0}: worker.fidelity ?? 0
 #: src/components/_user/worker/WageReductionAlert.tsx:56
