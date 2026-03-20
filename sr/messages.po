@@ -1486,7 +1486,7 @@ msgstr "Барем си покушао"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "По истеку тајмера, <0>{actualTickPoints}</0> ће бити додељено страни са највише нанесене штете."
 
-#: src/components/_military/hit/HitButton.tsx:373
+#: src/components/_military/hit/HitButton.tsx:388
 #: src/components/_user/user/skills.frontConfig.tsx:42
 #: src/components/_user/user/skills.frontConfig.tsx:43
 msgid "Attack"
@@ -2354,7 +2354,7 @@ msgstr "Земље"
 
 #: src/components/_layout/LayoutRightIcons.tsx:297
 #: src/components/_layout/MoreButtonNav.tsx:131
-#: src/components/_military/battle/BattleCountrySide.tsx:64
+#: src/components/_military/battle/BattleCountrySide.tsx:78
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
 #: src/components/_political/country/CountryHeader.tsx:51
 msgid "Country"
@@ -2518,7 +2518,7 @@ msgstr "Штета"
 msgid "Damages for Mu"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:327
+#: src/components/_military/hit/HitButton.tsx:342
 msgid "Damages you did for this side in this round"
 msgstr "Штета коју си нанео за ову страну у овој рунди"
 
@@ -2635,7 +2635,7 @@ msgstr "Смањи"
 msgid "Decrease unrest"
 msgstr "Смањи немир"
 
-#: src/components/_military/hit/HitButton.tsx:376
+#: src/components/_military/hit/HitButton.tsx:391
 msgid "Defend"
 msgstr "Одбрани"
 
@@ -4250,7 +4250,7 @@ msgstr "Војна јединица креирана"
 msgid "Military units"
 msgstr "Војне јединице"
 
-#: src/components/_military/battle/BattleCountrySide.tsx:84
+#: src/components/_military/battle/BattleCountrySide.tsx:98
 msgid "Military Units"
 msgstr ""
 
@@ -5761,7 +5761,7 @@ msgstr "Ресетуј корисничко име"
 msgid "Reshuffle in"
 msgstr "Премештање за"
 
-#: src/components/_military/hit/HitButton.tsx:371
+#: src/components/_military/hit/HitButton.tsx:386
 msgid "Resist"
 msgstr "Отпор"
 
@@ -7886,7 +7886,7 @@ msgstr "Твоје дневне мисије су ресетоване! Завр
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Твој дневни XP лимит је ресетован, сада можеш да стичеш XP и преузмеш своју дневну награду!"
 
-#: src/components/_military/hit/HitButton.tsx:326
+#: src/components/_military/hit/HitButton.tsx:341
 msgid "Your damages"
 msgstr "Твоја штета"
 

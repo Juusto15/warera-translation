@@ -1486,7 +1486,7 @@ msgstr "至少你試過了"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "在倒計時結束時， <0>{actualTickPoints}</0> 將會被發派到傷害較多的一邊。"
 
-#: src/components/_military/hit/HitButton.tsx:373
+#: src/components/_military/hit/HitButton.tsx:388
 #: src/components/_user/user/skills.frontConfig.tsx:42
 #: src/components/_user/user/skills.frontConfig.tsx:43
 msgid "Attack"
@@ -2354,7 +2354,7 @@ msgstr "國家"
 
 #: src/components/_layout/LayoutRightIcons.tsx:297
 #: src/components/_layout/MoreButtonNav.tsx:131
-#: src/components/_military/battle/BattleCountrySide.tsx:64
+#: src/components/_military/battle/BattleCountrySide.tsx:78
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
 #: src/components/_political/country/CountryHeader.tsx:51
 msgid "Country"
@@ -2518,7 +2518,7 @@ msgstr "傷害"
 msgid "Damages for Mu"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:327
+#: src/components/_military/hit/HitButton.tsx:342
 msgid "Damages you did for this side in this round"
 msgstr "你這回合為這邊輸出的傷害"
 
@@ -2635,7 +2635,7 @@ msgstr "減少"
 msgid "Decrease unrest"
 msgstr "減少動盪值"
 
-#: src/components/_military/hit/HitButton.tsx:376
+#: src/components/_military/hit/HitButton.tsx:391
 msgid "Defend"
 msgstr "防禦"
 
@@ -4250,7 +4250,7 @@ msgstr "軍團已創建"
 msgid "Military units"
 msgstr "軍團"
 
-#: src/components/_military/battle/BattleCountrySide.tsx:84
+#: src/components/_military/battle/BattleCountrySide.tsx:98
 msgid "Military Units"
 msgstr ""
 
@@ -5761,7 +5761,7 @@ msgstr "重置用戶名稱"
 msgid "Reshuffle in"
 msgstr "重置於"
 
-#: src/components/_military/hit/HitButton.tsx:371
+#: src/components/_military/hit/HitButton.tsx:386
 msgid "Resist"
 msgstr "抵抗"
 
@@ -7886,7 +7886,7 @@ msgstr "你的每日任務已重置，完成它們以賺取獎勵！"
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "你的每日經驗值上限已重置，你可以接著獲取經驗值來賺取每日獎勵了！"
 
-#: src/components/_military/hit/HitButton.tsx:326
+#: src/components/_military/hit/HitButton.tsx:341
 msgid "Your damages"
 msgstr "你的傷害"
 

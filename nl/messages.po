@@ -1486,7 +1486,7 @@ msgstr "Je hebt het geprobeerd!"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Aan het einde van de timer wordt/worden <0>{actualTickPoints}</0> toegewezen aan de kant met de meeste schade."
 
-#: src/components/_military/hit/HitButton.tsx:373
+#: src/components/_military/hit/HitButton.tsx:388
 #: src/components/_user/user/skills.frontConfig.tsx:42
 #: src/components/_user/user/skills.frontConfig.tsx:43
 msgid "Attack"
@@ -2354,7 +2354,7 @@ msgstr "Landen"
 
 #: src/components/_layout/LayoutRightIcons.tsx:297
 #: src/components/_layout/MoreButtonNav.tsx:131
-#: src/components/_military/battle/BattleCountrySide.tsx:64
+#: src/components/_military/battle/BattleCountrySide.tsx:78
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
 #: src/components/_political/country/CountryHeader.tsx:51
 msgid "Country"
@@ -2518,7 +2518,7 @@ msgstr "Schade"
 msgid "Damages for Mu"
 msgstr "Schade voor ME"
 
-#: src/components/_military/hit/HitButton.tsx:327
+#: src/components/_military/hit/HitButton.tsx:342
 msgid "Damages you did for this side in this round"
 msgstr "Schade die je voor dit team in deze ronde hebt toegebracht"
 
@@ -2635,7 +2635,7 @@ msgstr "Verminderen"
 msgid "Decrease unrest"
 msgstr "Verminder onrust"
 
-#: src/components/_military/hit/HitButton.tsx:376
+#: src/components/_military/hit/HitButton.tsx:391
 msgid "Defend"
 msgstr "Verdedigen"
 
@@ -4250,7 +4250,7 @@ msgstr "Militaire Eenheid opgericht"
 msgid "Military units"
 msgstr "Militaire Units"
 
-#: src/components/_military/battle/BattleCountrySide.tsx:84
+#: src/components/_military/battle/BattleCountrySide.tsx:98
 msgid "Military Units"
 msgstr "Militaire Eenheden"
 
@@ -5761,7 +5761,7 @@ msgstr "Gebruikersnaam resetten"
 msgid "Reshuffle in"
 msgstr "Herschikking"
 
-#: src/components/_military/hit/HitButton.tsx:371
+#: src/components/_military/hit/HitButton.tsx:386
 msgid "Resist"
 msgstr "Verzet"
 
@@ -7886,7 +7886,7 @@ msgstr "Je dagelijkse missies zijn gereset! Voltooi ze om beloningen te verdiene
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Je dagelijkse XP-limiet is gereset, je kunt nu XP verdienen en je dagelijkse beloning krijgen!"
 
-#: src/components/_military/hit/HitButton.tsx:326
+#: src/components/_military/hit/HitButton.tsx:341
 msgid "Your damages"
 msgstr "Jouw schade"
 

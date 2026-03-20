@@ -1484,7 +1484,7 @@ msgstr "Măcar ai încercat"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "La sfârșitul timpului, partea cu cele mai multe daune cauzate va câștiga <0>{actualTickPoints}</0>."
 
-#: src/components/_military/hit/HitButton.tsx:373
+#: src/components/_military/hit/HitButton.tsx:388
 #: src/components/_user/user/skills.frontConfig.tsx:42
 #: src/components/_user/user/skills.frontConfig.tsx:43
 msgid "Attack"
@@ -2352,7 +2352,7 @@ msgstr "Țări"
 
 #: src/components/_layout/LayoutRightIcons.tsx:297
 #: src/components/_layout/MoreButtonNav.tsx:131
-#: src/components/_military/battle/BattleCountrySide.tsx:64
+#: src/components/_military/battle/BattleCountrySide.tsx:78
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
 #: src/components/_political/country/CountryHeader.tsx:51
 msgid "Country"
@@ -2516,7 +2516,7 @@ msgstr "Daune"
 msgid "Damages for Mu"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:327
+#: src/components/_military/hit/HitButton.tsx:342
 msgid "Damages you did for this side in this round"
 msgstr "Daune cauzade de tine, de această parte, în această rundă"
 
@@ -2633,7 +2633,7 @@ msgstr ""
 msgid "Decrease unrest"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:376
+#: src/components/_military/hit/HitButton.tsx:391
 msgid "Defend"
 msgstr "Apără"
 
@@ -4248,7 +4248,7 @@ msgstr "Unitate militară creată"
 msgid "Military units"
 msgstr "Unități Militare"
 
-#: src/components/_military/battle/BattleCountrySide.tsx:84
+#: src/components/_military/battle/BattleCountrySide.tsx:98
 msgid "Military Units"
 msgstr ""
 
@@ -5759,7 +5759,7 @@ msgstr "Resetează Nume"
 msgid "Reshuffle in"
 msgstr "Redistribuire în"
 
-#: src/components/_military/hit/HitButton.tsx:371
+#: src/components/_military/hit/HitButton.tsx:386
 msgid "Resist"
 msgstr "Rezistă"
 
@@ -7884,7 +7884,7 @@ msgstr "Misiunile tale zilnice au fost resetate! Completează-le pentru a câșt
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Limita ta zilnică de XP a fost resetată, poți acum să câștigi XP și să primești recompensa zilnică!"
 
-#: src/components/_military/hit/HitButton.tsx:326
+#: src/components/_military/hit/HitButton.tsx:341
 msgid "Your damages"
 msgstr "Daunele tale"
 

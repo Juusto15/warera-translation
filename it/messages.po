@@ -1486,7 +1486,7 @@ msgstr "Almeno ci hai provato"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Alla fine del timer, <0>{actualTickPoints}</0> verranno assegnati alla fazione con più danni."
 
-#: src/components/_military/hit/HitButton.tsx:373
+#: src/components/_military/hit/HitButton.tsx:388
 #: src/components/_user/user/skills.frontConfig.tsx:42
 #: src/components/_user/user/skills.frontConfig.tsx:43
 msgid "Attack"
@@ -2354,7 +2354,7 @@ msgstr "Paesi"
 
 #: src/components/_layout/LayoutRightIcons.tsx:297
 #: src/components/_layout/MoreButtonNav.tsx:131
-#: src/components/_military/battle/BattleCountrySide.tsx:64
+#: src/components/_military/battle/BattleCountrySide.tsx:78
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
 #: src/components/_political/country/CountryHeader.tsx:51
 msgid "Country"
@@ -2518,7 +2518,7 @@ msgstr "Danni"
 msgid "Damages for Mu"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:327
+#: src/components/_military/hit/HitButton.tsx:342
 msgid "Damages you did for this side in this round"
 msgstr "Danni che hai inflitto per questa fazione in questo round"
 
@@ -2635,7 +2635,7 @@ msgstr ""
 msgid "Decrease unrest"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:376
+#: src/components/_military/hit/HitButton.tsx:391
 msgid "Defend"
 msgstr "Difendi"
 
@@ -4250,7 +4250,7 @@ msgstr "Unità militare creata"
 msgid "Military units"
 msgstr "Unità militari"
 
-#: src/components/_military/battle/BattleCountrySide.tsx:84
+#: src/components/_military/battle/BattleCountrySide.tsx:98
 msgid "Military Units"
 msgstr ""
 
@@ -5761,7 +5761,7 @@ msgstr "Reimposta nome utente"
 msgid "Reshuffle in"
 msgstr "Rimescola tra"
 
-#: src/components/_military/hit/HitButton.tsx:371
+#: src/components/_military/hit/HitButton.tsx:386
 msgid "Resist"
 msgstr "Resisti"
 
@@ -7886,7 +7886,7 @@ msgstr "Le tue missioni giornaliere sono state reimpostate! Completale per otten
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Il tuo limite giornaliero di XP è stato reimpostato: ora puoi guadagnare XP e ottenere la ricompensa giornaliera!"
 
-#: src/components/_military/hit/HitButton.tsx:326
+#: src/components/_military/hit/HitButton.tsx:341
 msgid "Your damages"
 msgstr "I tuoi danni"
 
